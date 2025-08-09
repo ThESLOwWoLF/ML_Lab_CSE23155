@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702bd2ce-f1b5-41de-aec3-a8a172c2082d" name="Changes" comment="finished lab4 and added new wav format dataset">
-      <change afterPath="$PROJECT_DIR$/LAB05 CSE23155.ipynb" afterDir="false" />
+    <list default="true" id="702bd2ce-f1b5-41de-aec3-a8a172c2082d" name="Changes" comment="added lab 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB04 CSE23155.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB04 CSE23155.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB05 CSE23155.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB05 CSE23155.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,7 @@
       <workItem from="1754472004932" duration="26000" />
       <workItem from="1754472681470" duration="128000" />
       <workItem from="1754475173776" duration="21000" />
-      <workItem from="1754722511088" duration="4809000" />
+      <workItem from="1754722511088" duration="5344000" />
     </task>
     <task id="LOCAL-00001" summary="finished till 4 =th question">
       <option name="closed" value="true" />
@@ -218,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754156921483</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added lab 5">
+      <option name="closed" value="true" />
+      <created>1754727965189</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754727965189</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +249,8 @@
     <MESSAGE value="finished lab3 and added dataset" />
     <MESSAGE value="finished lab4" />
     <MESSAGE value="finished lab4 and added new wav format dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished lab4 and added new wav format dataset" />
+    <MESSAGE value="added lab 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lab 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
