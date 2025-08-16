@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="702bd2ce-f1b5-41de-aec3-a8a172c2082d" name="Changes" comment="added lab 5">
+      <change afterPath="$PROJECT_DIR$/LAB06 CSE23155.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB05 CSE23155.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB05 CSE23155.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,12 @@
       <workItem from="1754472004932" duration="26000" />
       <workItem from="1754472681470" duration="128000" />
       <workItem from="1754475173776" duration="21000" />
-      <workItem from="1754722511088" duration="5344000" />
+      <workItem from="1754722511088" duration="5705000" />
+      <workItem from="1754755311212" duration="13000" />
+      <workItem from="1755064017351" duration="3818000" />
+      <workItem from="1755075030554" duration="6000" />
+      <workItem from="1755075492863" duration="230000" />
+      <workItem from="1755349371904" duration="3450000" />
     </task>
     <task id="LOCAL-00001" summary="finished till 4 =th question">
       <option name="closed" value="true" />
@@ -225,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754727965189</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added lab 5">
+      <option name="closed" value="true" />
+      <created>1754728734671</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1754728734671</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +280,6 @@
     <SUITE FILE_PATH="coverage/ML_Lab$mp32wav.coverage" NAME="mp32wav Coverage Results" MODIFIED="1754459253896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ML_Lab$Lab02_CSE23155.coverage" NAME="Lab02 CSE23155 Coverage Results" MODIFIED="1752648802339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ML_Lab$test.coverage" NAME="test Coverage Results" MODIFIED="1752639058570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ML_Lab$audio_labeler.coverage" NAME="audio_labeler Coverage Results" MODIFIED="1754125524939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_Lab$audio_labeler.coverage" NAME="audio_labeler Coverage Results" MODIFIED="1755351157045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
